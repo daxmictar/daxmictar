@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Dax's Github 👋
 
 📜 Bachelor of Computer Science from California State University - San Marcos 
 
