@@ -2,7 +2,7 @@
 
 📜 Bachelor of Computer Science from California State University - San Marcos 
 
-💻 C/C++, Python, JavaScript/TypeScript, Go, HTML, Terraform
+💻 C/C++, Python, C#, JavaScript/TypeScript, Go, Rust, HTML, Terraform
 
 [My LinkedIn](www.linkedin.com/in/dax-taraleskof-8b5410201)
 
