@@ -4,7 +4,7 @@
 
 💻 C/C++, Python, C#, JavaScript/TypeScript, Go, Rust, HTML, Terraform
 
-[My LinkedIn](www.linkedin.com/in/dax-taraleskof-8b5410201)
+[My LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/)
 
 <!--
 **daxmictar/daxmictar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
