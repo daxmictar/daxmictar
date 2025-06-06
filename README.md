@@ -2,11 +2,9 @@
 
 📜 Bachelor of Computer Science from California State University - San Marcos 
 
-💻 C/C++, Python, C#, JavaScript/TypeScript, Go, Rust, HTML, Terraform
+💻 C/C++, Rust, Python, C#, JavaScript/TypeScript, Go, HTML
 
-[My LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/)
-
-Check out my [website](https://www.daxmictar.net).
+Check out my [website](https://www.daxmictar.net) or my [LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/).
 
 <!--
 **daxmictar/daxmictar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
