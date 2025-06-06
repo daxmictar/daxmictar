@@ -6,7 +6,7 @@
 
 [My LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/)
 
-[My Website](https://www.daxmictar.net)
+Check out my [website](https://www.daxmictar.net).
 
 <!--
 **daxmictar/daxmictar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
