@@ -6,7 +6,7 @@
 
 Enjoyer of [Nix](https://nixos.wiki/). I daily drive [NixOS](https://nixos.wiki/wiki/Overview_of_the_NixOS_Linux_distribution) with [KDE](https://kde.org/plasma-desktop/).
 
-I've worked on fullstack applications that have used React, TypeScript, Python, and C++. I've worked on and built a few games in Unity and Godot using C#.
+I've worked on fullstack applications that have used React, TypeScript, Python, and C++. I've also worked on and built a few games in [Unity](https://unity.com/) and [Godot](https://godotengine.org/) using C#.
 
 I'm currently interested in compilers, networking, and system design.
 
