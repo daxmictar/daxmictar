@@ -2,11 +2,13 @@
 
 📜 Bachelor of Computer Science from California State University - San Marcos 
 
-💻 C/C++, Rust, Python, C#, JavaScript/TypeScript
+💻 C/C++, Python, C#, JavaScript/TypeScript, and Rust
 
 I'm currently interested in compilers, networking, and system design.
 
-I've worked on fullstack applications that have used React, TypeScript, and Python, and C++.
+I've worked on fullstack applications that have used React, TypeScript, Python, and C++.
+
+I've also worked on games in Unity and Godot using C#.
 
 Check out my [website](https://www.daxmictar.net) or my [LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/).
 
