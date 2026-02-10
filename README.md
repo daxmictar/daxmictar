@@ -1,16 +1,12 @@
 ## Welcome to Dax's Github 👋
 
-📜 Bachelor of Computer Science from California State University - San Marcos 
+📜 Bachelor of Computer Science from [California State University - San Marcos](https://www.csusm.edu/cse/index.html) 
 
-💻 C/C++, Python, C#, JavaScript/TypeScript, and Rust
-
-Enjoyer of [Nix](https://nixos.wiki/). I daily drive [NixOS](https://nixos.wiki/wiki/Overview_of_the_NixOS_Linux_distribution) with [KDE](https://kde.org/plasma-desktop/).
+- Using C/C++/Rust/Python/TypeScript, AWS/Digital Ocean
+- Interested in Linux(Daily driving [NixOS](https://nixos.wiki/wiki/Overview_of_the_NixOS_Linux_distribution) + [KDE](https://kde.org/plasma-desktop/)), Compilers, Networking, and various other computing topics.
+- Check out my [website](https://www.daxmictar.net) or my [LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/)
 
 I've worked on fullstack applications that have used React, TypeScript, Python, and C++. I've also worked on and built a few games in [Unity](https://unity.com/) and [Godot](https://godotengine.org/) using C#.
-
-I'm currently interested in compilers, networking, and system design.
-
-Check out my [website](https://www.daxmictar.net) or my [LinkedIn](https://www.linkedin.com/in/dax-taraleskof-8b5410201/).
 
 <!--
 **daxmictar/daxmictar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
