@@ -8,9 +8,7 @@
 - I've worked on fullstack applications that have used React, TypeScript, Python, and C++. 
 - Built a few games in [Unity](https://unity.com/) and [Godot](https://godotengine.org/) using C#.
 
-What I'm currently working on:
-- Register-based toy virtual machine (JellyVM)
-- Custom networking library in C++
+This account mostly contains public mirrors for older repositories. I'm very active on [GitLab](https://gitlab.com/daxmictar); check it out for some my recent projects.
 
 <!--
 **daxmictar/daxmictar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
